@@ -12,11 +12,11 @@ Projeto desenvolvido no Bootcamp **Decola Tech Avanade 2024** com foco em reconh
 1. Coletar imagens com texto para reconhecimento
 2. Usar recursos do OpenAI (OCR + IA Generativa)
 3. Salvar os resultados dos textos extraídos na pasta `output`
-4. Documentar o processo neste `README`
 
 ## 🖼️ Exemplos
 
-> ⚠️ Insira aqui prints de tela do processo, imagens usadas e os resultados extraídos com IA.
+![image](https://github.com/user-attachments/assets/6957358d-ea7e-4476-9dd0-2dd66a99d5fc)
+
 
 ## 💡 Possibilidades de Uso
 
